@@ -1,0 +1,6 @@
+/**
+ * ArrayListInteger
+ */
+public class ArrayListInteger {
+
+}
